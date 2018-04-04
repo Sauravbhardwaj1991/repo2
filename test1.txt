@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4A14-02BB
+
+ Directory of C:\Users\srv\Desktop\MyProject
+
+04-04-2018  12:10    <DIR>          .
+04-04-2018  12:10    <DIR>          ..
+04-04-2018  12:10                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  395,076,177,920 bytes free
